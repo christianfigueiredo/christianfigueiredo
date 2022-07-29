@@ -1,8 +1,8 @@
 ## Olá! Eu so o Christian Figueiredo
 
 
-- 🔭 Hoje trabalho com .Net - Azure devops - front-end
-- 🌱 Estudando Java - Typescript
+- 🔭 Hoje trabalho com Data Science  .Net - Azure 
+- 🌱 Estudando Java - Typescript - Phyton
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/christianfigueiredo">
