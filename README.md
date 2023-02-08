@@ -1,7 +1,7 @@
 ## Olá! Eu so o Christian Figueiredo
 
 
-- 🔭 Hoje trabalho com Data Science  .Net - Azure 
+- 🔭 Hoje trabalho com Data Science  
 - 🌱 Estudando Java - Typescript - Phyton
 - 😄 Pronouns: ele/dele
 <div align="center">
