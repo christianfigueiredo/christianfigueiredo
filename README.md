@@ -1,4 +1,4 @@
-## Olá! Eu so o Christian Figueiredo
+## Olá! Eu sou o Christian Figueiredo
 
 
 - 🔭 Hoje trabalho com Data Science  
