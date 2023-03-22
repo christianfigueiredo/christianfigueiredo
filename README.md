@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Christian Figueiredo
 
 
-- 🔭 Hoje trabalho com Data Science  
-- 🌱 Estudando Java - Typescript - Phyton
+- 🔭 Algum Conhecimento em Data Science e trabalhando com .NET  
+- 🌱 Estudando Phyton
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/christianfigueiredo">
