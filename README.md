@@ -3,7 +3,7 @@
 
 - 🔭 Algum Conhecimento em Data Science e trabalhando com .NET  
 - 🌱 Estudando Phyton
-- 🌱 Desenvolvendo com Angular
+- 🌱 Desenvolvendo com Angular - .Net 
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/christianfigueiredo">
