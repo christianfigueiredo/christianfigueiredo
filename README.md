@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Christian Figueiredo
 
 
-- 🔭 Algum Conhecimento em Data Science e trabalhando com .NET  
+- 🔭 Conhecimento em Data Science e trabalhando com .NET  
 - 🌱 Estudando Sempre
 - 🌱 Desenvolvendo com Angular - .Net 
 - 😄 Pronouns: ele/dele
