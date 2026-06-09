@@ -2,7 +2,7 @@
 
 
 - 🔭 Algum Conhecimento em Data Science e trabalhando com .NET  
-- 🌱 Estudando Phyton
+- 🌱 Estudando Sempre
 - 🌱 Desenvolvendo com Angular - .Net 
 - 😄 Pronouns: ele/dele
 <div align="center">
